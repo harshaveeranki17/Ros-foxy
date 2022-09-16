@@ -3,11 +3,6 @@
 # - Any object comes inside of scan Robot takes sharp turn
 # - This code is going to publish on topic "cmd_vel" and
 #    subscribe "/scan" topic
-#
-#  Written by Muhammad Luqman
-#  ros2,FOXY
-#  13/6/21
-#
 ###
 import rclpy
 from rclpy.node import Node
